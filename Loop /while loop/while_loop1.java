@@ -1,6 +1,6 @@
 // while loop 
 
-public class while_loop.java {
+public class while_loop1{
     public static void main(String[] args) {
         int i=5;
         while(i<10)
